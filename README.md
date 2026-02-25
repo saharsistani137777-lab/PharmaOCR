@@ -1,6 +1,6 @@
 ## 💊 PharmaOCR
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-2b5b8c?style=flat-square)](https://python.org)                                                                                
+[![Python](https://img.shields.io/badge/Python-3.9%2B-2b5b8c?style=flat-square)](https://python.org)
 [![PaddleOCR](https://img.shields.io/badge/OCR-PaddleOCR-0179b3?style=flat-square)](https://github.com/PaddlePaddle/PaddleOCR)
 [![Flask](https://img.shields.io/badge/Web-Flask-000000?style=flat-square)](https://flask.palletsprojects.com)
 [![License](https://img.shields.io/badge/License-Apache%202.0-d22128?style=flat-square)](LICENSE)
