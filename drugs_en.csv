@@ -1,1 +1,17 @@
+id,name,category,strength
+1,Acetaminophen,Painkiller,325mg
+2,Acetaminophen,Painkiller,500mg
+3,Ibuprofen,Painkiller,200mg
+4,Ibuprofen,Painkiller,400mg
+5,Amoxicillin,Antibiotic,250mg
+6,Amoxicillin,Antibiotic,500mg
+7,Cephalexin,Antibiotic,250mg
+8,Cephalexin,Antibiotic,500mg
+9,Metformin,Diabetes,500mg
+10,Metformin,Diabetes,850mg
+11,Losartan,Cardiovascular,25mg
+12,Losartan,Cardiovascular,50mg
+13,Omeprazole,Gastrointestinal,20mg
+14,Ranitidine,Gastrointestinal,150mg
+15,Alprazolam,Neurological,0.5mg
 
