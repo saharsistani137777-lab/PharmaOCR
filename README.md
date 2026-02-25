@@ -67,27 +67,40 @@ print(response.json())
 
 ---
 
-File Structure
+##File Structure
 
 PharmaOCR/
 ├── app.py
+
 ├── ocr_engine.py
+
 ├── drug_matcher.py
+
 ├── dosage_parser.py
+
 ├── interaction_checker.py
+
 ├── pdf_label.py
+
 ├── config.py
+
 ├── drugs_ir.csv
+
 ├── drugs_en.csv
+
 ├── interactions.json
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── LICENSE
+
 └── .gitignore
 
 ---
 
-License
+##License
 
 Apache 2.0 - Free for commercial and research use.
 
