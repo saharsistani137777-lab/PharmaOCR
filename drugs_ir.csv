@@ -1,1 +1,17 @@
+id,name_fa,name_en,category,strength
+1,استامینوفن,Acetaminophen,مسکن,325mg
+2,استامینوفن,Acetaminophen,مسکن,500mg
+3,ایبوپروفن,Ibuprofen,مسکن,200mg
+4,ایبوپروفن,Ibuprofen,مسکن,400mg
+5,آموکسی‌سیلین,Amoxicillin,آنتی‌بیوتیک,250mg
+6,آموکسی‌سیلین,Amoxicillin,آنتی‌بیوتیک,500mg
+7,سفالکسین,Cephalexin,آنتی‌بیوتیک,250mg
+8,سفالکسین,Cephalexin,آنتی‌بیوتیک,500mg
+9,متفورمین,Metformin,دیابت,500mg
+10,متفورمین,Metformin,دیابت,850mg
+11,لوزارتان,Losartan,قلب,25mg
+12,لوزارتان,Losartan,قلب,50mg
+13,امپرازول,Omeprazole,گوارش,20mg
+14,رانیتیدین,Ranitidine,گوارش,150mg
+15,آلپرازولام,Alprazolam,اعصاب,0.5mg
 
