@@ -1,5 +1,4 @@
-markdown
-# 💊 PharmaOCR
+## 💊 PharmaOCR
 
 Read doctor's handwriting. Save lives.
 [![Python](https://img.shields.io/badge/Python-3.9%2B-2b5b8c?style=flat-square)](https://python.org)
