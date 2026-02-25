@@ -1,0 +1,31 @@
+# Core
+python-dotenv==1.1.0
+pydantic==2.10.0
+
+# OCR
+paddlepaddle-gpu==3.0.0
+paddleocr==2.9.0
+easyocr==2.0.0
+
+# NLP
+transformers==4.48.0
+torch==2.6.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.26.0
+
+# Web
+flask==3.1.0
+flask-cors==5.0.0
+
+# Data
+pandas==2.2.0
+numpy==2.2.0
+pillow==11.1.0
+opencv-python==4.10.0
+
+# PDF
+reportlab==4.3.0
+
+# Utils
+tqdm==4.67.0
+requests==2.32.0
