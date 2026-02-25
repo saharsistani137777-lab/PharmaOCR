@@ -1,1 +1,35 @@
+{
+  "interactions": [
+    {
+      "drug1": "Warfarin",
+      "drug2": "Ibuprofen",
+      "severity": "high",
+      "description": "Increased bleeding risk"
+    },
+    {
+      "drug1": "Metformin",
+      "drug2": "Ibuprofen",
+      "severity": "moderate",
+      "description": "May affect kidney function"
+    },
+    {
+      "drug1": "Amoxicillin",
+      "drug2": "Methotrexate",
+      "severity": "moderate",
+      "description": "Reduced methotrexate elimination"
+    },
+    {
+      "drug1": "Losartan",
+      "drug2": "Potassium supplements",
+      "severity": "high",
+      "description": "Risk of hyperkalemia"
+    },
+    {
+      "drug1": "Alprazolam",
+      "drug2": "Alcohol",
+      "severity": "high",
+      "description": "Increased CNS depression"
+    }
+  ]
+}
 
