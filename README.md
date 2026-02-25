@@ -71,6 +71,7 @@ print(response.json())
 ##File Structure
 
 PharmaOCR/
+
 ├── app.py
 
 ├── ocr_engine.py
