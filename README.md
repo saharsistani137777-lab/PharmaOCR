@@ -26,7 +26,7 @@ This system solves that.
 
 | Field | Accuracy | Example |
 |-------|----------|---------|
-| Patient Name | 94% | "Sahar Sistani" |
+| Patient Name | 94% | "XxxxxxX" |
 | Drug Names | 97% | "Amoxicillin 500mg" |
 | Dosage | 93% | "1 capsule q8h" |
 | Duration | 96% | "7 days" |
