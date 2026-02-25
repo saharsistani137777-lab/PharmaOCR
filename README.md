@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-d22128?style=flat-square)](LICENSE)
 
 
-##Read doctor's handwriting. Save lives.
+## Read doctor's handwriting. Save lives.
 
 AI-powered prescription digitization for pharmacies. Convert illegible doctor scribbles into structured medication lists in seconds.
 
